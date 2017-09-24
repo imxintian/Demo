@@ -346,6 +346,7 @@ switch语句中有case，而<c:choose>标签中对应有<c:when>，switch语句�
   - <c:otherwise>标签没有属性。
 ---
 <c:when>标签的属性如下：
+
  |属性|	描述|	是否必要|	默认值|
  |---|---|---|---|
  |test|条件|	是	|无| 
